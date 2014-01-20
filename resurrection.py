@@ -21,6 +21,12 @@ memories_map = [
 
 #main gameloop
 
+print """		Welcome to Resurrection.
+
+The player takes on the role of one of Death's assistants. Since the introduction of 'extra lives', Death has had to take on help in order to recover those that need to be sent back to the living.
+
+This is your first day on the job - and you have to go find the three parts that make up this one person who has an extra chance. To resurrect someone, you need to find their memories, their flesh and their passion for life. You won't be alone - Death will be right along with you, ensuring you get the job done, and done well."""
+
 while True:
 	command = raw_input("> ")
 
