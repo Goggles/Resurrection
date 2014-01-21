@@ -12,7 +12,7 @@ memories_map = [
 	(
 """Again, you happen upon a dead end. Another sweep of an arm, and another jumbled word appears on the wall. 'ro lhle naheev. Another jumbled word. You know what to do, assistant. """, "Corridor Part 3"), #3
 	(
-"""""", "") #4
+"""This wall also crumbles away to nothingness, this time revealing a small book just inside. 'These would be the memories we seek.' Death picks up the book and stashes it away somewhere in their robes. 'To the next destination - the Labyrith of Flesh.' A portal opens, and you follow Death through it to the next area.""", "Corridor end") #4
 ]
 
 
