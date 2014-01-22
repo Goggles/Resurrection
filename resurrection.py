@@ -15,7 +15,13 @@ memories_map = [
 """This wall also crumbles away to nothingness, this time revealing a small book just inside. 'These would be the memories we seek.' Death picks up the book and stashes it away somewhere in their robes. 'To the next destination - the Labyrith of Flesh.' A portal opens, and you follow Death through it to the next area.""", "Corridor end") #4
 ]
 
+flesh_map = [
+	(
+"""Out of the portal you and Death step, straight into a place that seems to made up of quivering masses of flesh. 'Distasteful, isn't it? The first Death took the idea of a realm for the flesh of the dead a little too literally. Watch your step, the whole place is alive.' With that said, Death walks on forward to what looks like a massive artery - big enough for a bus to go through with room to spare.""", "Landing area"), #0
+	(
+"""""", "")
 
+]
 #word puzzles
 
 
