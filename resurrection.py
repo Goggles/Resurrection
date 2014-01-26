@@ -16,7 +16,11 @@ memories_map = [
 	(
 """Out of the portal you and Death step, straight into a place that seems to made up of quivering masses of flesh. 'Distasteful, isn't it? The first Death took the idea of a realm for the flesh of the dead a little too literally. Watch your step, the whole place is alive.' With that said, Death walks on forward to what looks like a massive artery - big enough for a bus to go through with room to spare.""", "5"), #5
 	(
-"""""", "")
+"""You both stop before a membrane blocking the corridor. A mess of characters are carved into the thin barrier. 'taalfyti. Yet another anagram. Let us hope it is the last...'""", "6"), #6
+	(
+"""The membrane explodes, splattering blood and pieces of itself onto both yourself and Death. '...I forgot that happens. Come along, the body we seek will be in here. Attempting to wipe the remains of the wall from your person, you follow Death down the staircase formed of tight muscle. At the foot of the staircase is a small altar that looks suspiciously like a hollowed out uterus. 'The original Death also took certain ideas too far...' your boss mutters under his breath. 'Take the bag you'll find in that...thing. Try not to think too much about what you're doing, I don't want you to suddenly puke and the realm we're in to take offence.' You put your arm into the altar and feel around for a small bag. 'Got it? Good. To the Realm of Spirit and Passion.' With that, you and Death warp away to the next destination.""", "7"), #7
+	(
+"""""", "8") #8
 
 ]
 
