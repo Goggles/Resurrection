@@ -24,7 +24,9 @@ main_map = [
 	(
 """The mist-heart freezes as you utter the right word. Death captures it quickly with the butterfly net. 'One down. Let us find the others.' You both continue down the corridor, waiting for another mist-heart to appear.""", "9"), #9
 	(
-"""""", "")
+"""'wlo. wlo. wlo.' The voice echos around you both, as another mist-heart is formed. 'Stun it, assistant!' Death readies the butterfly net again.""", "10"), #10
+	(
+"""The net swiftly contains this mist-heart as well. 'This is extremely simple...'""", "11"),
 
 ]
 
