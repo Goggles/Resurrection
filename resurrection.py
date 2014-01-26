@@ -2,7 +2,7 @@
 
 #maps
 
-memories_map = [
+main_map = [
 	(
 """You step out with Death from the warm office into a place that smells distinctly like dust and dry paper, utterly devoid of sound. Until Death says 'This corridor is an offshoot of the Maze of Memories. The memories of the dead exist here - in theory this place contains the memories we need.'""", "0"), #0
 	(
@@ -20,7 +20,9 @@ memories_map = [
 	(
 """The membrane explodes, splattering blood and pieces of itself onto both yourself and Death. '...I forgot that happens. Come along, the body we seek will be in here. Attempting to wipe the remains of the wall from your person, you follow Death down the staircase formed of tight muscle. At the foot of the staircase is a small altar that looks suspiciously like a hollowed out uterus. 'The original Death also took certain ideas too far...' your boss mutters under his breath. 'Take the bag you'll find in that...thing. Try not to think too much about what you're doing, I don't want you to suddenly puke and the realm we're in to take offence.' You put your arm into the altar and feel around for a small bag. 'Got it? Good. To the Realm of Spirit and Passion.' With that, you and Death warp away to the next destination.""", "7"), #7
 	(
-"""""", "8") #8
+"""Suddenly, you and Death are standing in a long corridor. The floor is covered in a thin layer of mist. The mist keeps changing colour - from white to a deep red, to a light blue and back again. Death motions for you to follow them down the corridor until he pauses. Some of the mist rises and forms into the shape of a heart - which starts moving around in a jerky fashion. Faintly, you hear a voice saying 'ghhi' repeatedly. 'Say the actual word! It's another puzzle! Say the true word and it will be stunned!' Death is now holding a butterfly net in one hand, intently watching the fast-moving mist-heart.""", "8"), #8
+	(
+"""""", "")
 
 ]
 
