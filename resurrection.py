@@ -4,25 +4,21 @@
 
 memories_map = [
 	(
-"""You step out with Death from the warm office into a place that smells distinctly like dust and dry paper, utterly devoid of sound. Until Death says 'This corridor is an offshoot of the Maze of Memories. The memories of the dead exist here - in theory this place contains the memories we need.'""", "First Corridor of maze"), #0
+"""You step out with Death from the warm office into a place that smells distinctly like dust and dry paper, utterly devoid of sound. Until Death says 'This corridor is an offshoot of the Maze of Memories. The memories of the dead exist here - in theory this place contains the memories we need.'""", "0"), #0
 	(
-"""Death leads the way down the corridor to a dead end. 'Let me just...' and with one sweep of an arm, a word appears on the wall. 'shcaneg vreen arw. It's a prhase that got jumbled up. If we can solve it, the wall will open. Get to it, assistant. We don't have eternity. Well, we do, but I have better places to spend it in rather than here.' Death mutters impatiently.""", "Corridor Part 1"), #1
+"""Death leads the way down the corridor to a dead end. 'Let me just...' and with one sweep of an arm, a word appears on the wall. 'shcaneg vreen arw. It's a prhase that got jumbled up. If we can solve it, the wall will open. Get to it, assistant. We don't have eternity. Well, we do, but I have better places to spend it in rather than here.' Death mutters impatiently.""", "1"), #1
 	(
-"""The next section of corridor is revealed, the dust beyond unsettled by the collapse of the wall.""", "Corridor Part 2"), #2
+"""The next section of corridor is revealed, the dust beyond unsettled by the collapse of the wall.""", "2"), #2
 	(
-"""Again, you happen upon a dead end. Another sweep of an arm, and another jumbled word appears on the wall. 'ro lhle naheev. Another jumbled word. You know what to do, assistant. """, "Corridor Part 3"), #3
+"""Again, you happen upon a dead end. Another sweep of an arm, and another jumbled word appears on the wall. 'ro lhle naheev. Another jumbled word. You know what to do, assistant. """, "3"), #3
 	(
-"""This wall also crumbles away to nothingness, this time revealing a small book just inside. 'These would be the memories we seek.' Death picks up the book and stashes it away somewhere in their robes. 'To the next destination - the Labyrith of Flesh.' A portal opens, and you follow Death through it to the next area.""", "Corridor end") #4
-]
-
-flesh_map = [
+"""This wall also crumbles away to nothingness, this time revealing a small book just inside. 'These would be the memories we seek.' Death picks up the book and stashes it away somewhere in their robes. 'To the next destination - the Labyrith of Flesh.' A portal opens, and you follow Death through it to the next area.""", "4"), #4
 	(
-"""Out of the portal you and Death step, straight into a place that seems to made up of quivering masses of flesh. 'Distasteful, isn't it? The first Death took the idea of a realm for the flesh of the dead a little too literally. Watch your step, the whole place is alive.' With that said, Death walks on forward to what looks like a massive artery - big enough for a bus to go through with room to spare.""", "Landing area"), #0
+"""Out of the portal you and Death step, straight into a place that seems to made up of quivering masses of flesh. 'Distasteful, isn't it? The first Death took the idea of a realm for the flesh of the dead a little too literally. Watch your step, the whole place is alive.' With that said, Death walks on forward to what looks like a massive artery - big enough for a bus to go through with room to spare.""", "5"), #5
 	(
 """""", "")
 
 ]
-#word puzzles
 
 
 #main gameloop
@@ -39,10 +35,6 @@ while True:
 	if command == "help":
 		print """help: brings up list of commands
 exit, quit: quit the game.
-up: move up
-down: move down
-right: move right
-left: move left
 """
 
 	if command == "exit" or command == "quit":

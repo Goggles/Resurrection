@@ -1,7 +1,7 @@
 Resurrection
 ============
 
-A simple text-based adventure game written in Python, utilising the advice here: http://www.bluzeandmuse.com/final_site/how_to.html
+A simple puzzle-solving interactive story game written in Python, utilising the advice here: http://www.bluzeandmuse.com/final_site/how_to.html
 
 Story:
 
