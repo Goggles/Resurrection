@@ -22,6 +22,8 @@ main_map = [
 	(
 """Suddenly, you and Death are standing in a long corridor. The floor is covered in a thin layer of mist. The mist keeps changing colour - from white to a deep red, to a light blue and back again. Death motions for you to follow them down the corridor until he pauses. Some of the mist rises and forms into the shape of a heart - which starts moving around in a jerky fashion. Faintly, you hear a voice saying 'ghhi' repeatedly. 'Say the actual word! It's another puzzle! Say the true word and it will be stunned!' Death is now holding a butterfly net in one hand, intently watching the fast-moving mist-heart.""", "8"), #8
 	(
+"""The mist-heart freezes as you utter the right word. Death captures it quickly with the butterfly net. 'One down. Let us find the others.' You both continue down the corridor, waiting for another mist-heart to appear.""", "9"), #9
+	(
 """""", "")
 
 ]
