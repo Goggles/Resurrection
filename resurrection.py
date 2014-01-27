@@ -32,7 +32,17 @@ main_map = [
 	(
 """As you utter the true word, the figure's right arm breaks away and forms into a mist-heart. Death sweeps forward and catches it, dodging a lunging attack from the mist-figure. 'klbco...klbco...' the mist-monster intones""", "13"), #13
 	(
-"""""", "14") #14
+"""The left arm of the mist-figure breaks off and forms into a mist-heart - like the previous limb. The figure howls in pain - 'ujpm, ujpm, ujpm!' 'Say the true word, then we get the final piece!' Death yells while capturing the mist-heart.""", "14"), #14
+	(
+"""It freezes, then reforms into a giant mist-heart. Death grabs it and stashes it away somewhere in his vast robes. 'We have everything. We can now resurrect this person and send them back.' And with that, Death warps both of you away.""", "15"), #15
+	(
+"""You both stumble into the Resurrection Chamber and lock the door behind you. Death releases the mist-hearts while you open the book of memories and the bag of flesh.
+
+Death mutters some incantation, and all the items meld together to create a person - a muscular man with spiky hair, tattoos and wearing only a pair of trousers and small amounts of armour. 'Well, let's send him on his way...'. With a flick of the wrist, Death warped the young man away.
+
+'Wonder how he'll get on.' A crystal ball, stood near the door, showed an arena - where the young man they just revived started fighting a girl in a chinese-style dress. After a few blows, the man was beaten again. 'Thankfully that was his last life. Didn't want to go through the hassle of fetching him again...'
+
+			~The End~""", "16")
 
 ]
 
