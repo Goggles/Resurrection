@@ -26,7 +26,13 @@ main_map = [
 	(
 """'wlo. wlo. wlo.' The voice echos around you both, as another mist-heart is formed. 'Stun it, assistant!' Death readies the butterfly net again.""", "10"), #10
 	(
-"""The net swiftly contains this mist-heart as well. 'This is extremely simple...'""", "11"),
+"""The net swiftly contains this mist-heart as well. 'This is extremely simple...'""", "11"), #11
+	(
+"""'Is that it? There's usually more to a person's spirit...' Death mutters. You both warily walk down the mist-ridden corridor, until you happen upon a figure made up of mist. It stumbles towards you both, arms outstretched, moaning 'idlmde. idlmde. idlmde!' Death steps forward, brandishing the iconic scythe. 'Work our the true word. Quickly now!'""", "12"), #12
+	(
+"""As you utter the true word, the figure's right arm breaks away and forms into a mist-heart. Death sweeps forward and catches it, dodging a lunging attack from the mist-figure. 'klbco...klbco...' the mist-monster intones""", "13"), #13
+	(
+"""""", "14") #14
 
 ]
 
