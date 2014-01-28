@@ -109,41 +109,43 @@ exit, quit: quit the game.
 		if command == "war never changes":
 			count += 1
 		else:
-			print "Nothing happens."
+			print "Nothing happens.\n"
 	elif count == 3:
 		if command == "heaven or hell":
 			count += 1
 		else:
-			print "Nothing happens."
+			print "Nothing happens.\n"
 	elif count == 6:
 		if command == "fatality":
 			count += 1
 		else:
-			print "Nothing happens."
+			print "Nothing happens.\n"
 	elif count == 8:
 		if command == "high":
 			count += 1
 		else:
-			print "Nothing happens."
+			print "Nothing happens.\n"
 	elif count == 10:
 		if command == "low":
 			count += 1
 		else:
-			print "Nothing happens."
+			print "Nothing happens.\n"
 	elif count == 12:
 		if command == "middle":
 			count += 1
 		else: 
-			print "Nothing happens."
+			print "Nothing happens.\n"
 	elif count == 13:
 		if command == "block":
 			count += 1
 		else:
-			print "Nothing happens."
+			print "Nothing happens.\n"
 	elif count == 14:
 		if command == "jump":
 			count += 1
 		else:
-			print "Nothing happens." 
+			print "Nothing happens.\n" 
+	elif count == 16:
+		break
 	else:
 		count += 1
