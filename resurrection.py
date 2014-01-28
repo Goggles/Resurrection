@@ -58,7 +58,7 @@ Death mutters some incantation, and all the items meld together to create a pers
 
 'Wonder how he'll get on.' A crystal ball, stood near the door, showed an arena - where the young man they just revived started fighting a girl in a chinese-style dress. After a few blows, the man was on the floor, bleeding profusely. 'Thankfully that was his last life. Didn't want to go through the hassle of fetching him again...'
 
-			~The End~"""
+			~The End~""" #16
 
 ]
 
@@ -74,6 +74,7 @@ This is your first day on the job - and you have to go find the three parts that
 count = 0
 
 while True:
+	print main_map[count]
 	command = raw_input("> ")
 
 	if command == "help":
