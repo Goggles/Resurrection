@@ -13,6 +13,11 @@ Often, these parts are scattered among plane of existance Death operates, and so
 
 You play one of Death's new assistants, and you have to (with a bit of guidance from your boss) recover the three parts of someone who needs to be resurrected.
 
+IMPORTANT NOTE - please don't read the code before you play the game! The answers are out in the open in the file so you'll spoil the fun for yourself!
+
+Though, if you're struggling, feel free to check the code for the answers (or ask me on Twitter @TopHatGoggles )
+
+
 Licence 
 =======
 
