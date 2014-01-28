@@ -99,6 +99,7 @@ while True:
 	if command == "help":
 		print """help: brings up list of commands
 exit, quit: quit the game.
+press enter to advance the story (except on places with puzzles)
 """
 
 	if command == "exit" or command == "quit":
